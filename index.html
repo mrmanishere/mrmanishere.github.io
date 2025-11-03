@@ -57,5 +57,20 @@
 
 <div style="float: right;">
 
+function setName()
+ {
+ document.getElementById("intro").innerHTML = 
+    '<div class="info">' +
+    '<h1>Play Minecraft For Free</h1>' +
+    '<p class="auto-style1">' +
+ 	'<applet code="net.minecraft.Launcher" archive="MinecraftAlpha.jar" codebase="/Minecraft/" width="854" height="480">' + 
+	'<param name="separate_jvm" value="true"/>' +
+    '<param name="java_arguments" value="-Dsun.java2d.noddraw=true -Dsun.awt.noerasebackground=true -Dsun.java2d.d3d=false -Dsun.java2d.opengl=false -Dsun.java2d.pmoffscreen=false -Xms512M -Xmx512M"/>' +
+    '<param name="latestVersion" value="1290776384000"/>' +
+    '<param name="sessionId" value="0">' +
+	'<param name="userName" value="' +
+	escape(document.getElementById("inputName").value) +
+	'"> </applet>';
+ }
 
 
