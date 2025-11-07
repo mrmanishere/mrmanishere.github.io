@@ -1,6 +1,6 @@
 [I'm probably going to use little area as some kind of update blog or whatever
 
-Hello! I just figured out that visiting mrmanishere.github.io doesnt seem to launch the java applet so I'm on my way to fix that!
+/11/06/2025 MM/DD/YYYY\ Hello! I just figured out that visiting mrmanishere.github.io doesnt seem to launch the java applet so I'm on my way to fix that!
 
 
 ]
