@@ -10,7 +10,7 @@ This is Old MineCraft running in a web browser
 
 THIS PROJECT IS INCOMPLETE!!!!! 
 
-if u cant/dont want to visit mrmanishere.github.io, click code and then click "Download zip", extract it and run index.html
+If you cant/dont want to visit mrmanishere.github.io, click code and then click "Download zip", extract it and run index.html
 
 PLEASE READ HOWTO BEFORE ASKING FOR HELP, but also, dont be afraid to ask for help in the issues tab!
 
