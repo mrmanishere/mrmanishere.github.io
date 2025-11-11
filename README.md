@@ -1,5 +1,7 @@
 [I'm probably going to use little area as some kind of update blog or whatever
 
+/11/10/2015\ MM/DD/YYYY added a game called "snake" ( I added it because i find it such a fun and enertaining game!) taken from Webdevtrick.com and all credits due to Webdevtrick.com
+
 /11/06/2025 MM/DD/YYYY\ a new web domain! http://mcinawebbrowser.ddns.net
 
 /11/07/2025 MM/DD/YYYY\ Hello! As of now visiting either https://mrmanishere.github.io or http://mcinawebbrowser.ddns.net should work!
