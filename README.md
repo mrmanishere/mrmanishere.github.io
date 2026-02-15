@@ -1,14 +1,12 @@
-[I'm probably going to use little area as some kind of update blog
-
-/11/10/2015\ MM/DD/YYYY added a game called "snake" ( I added it because I find it such a fun and enertaining game!) taken from Webdevtrick.com and all credits due to Webdevtrick.com
+[I'm probably going to use little area as some kind of update blog]
 
 /11/06/2025 MM/DD/YYYY\ a new web domain! http://mcinawebbrowser.ddns.net
 
 /11/07/2025 MM/DD/YYYY\ Hello! As of now visiting either https://mrmanishere.github.io or http://mcinawebbrowser.ddns.net should work!
 
+/2/14/2026\ MM/DD/YYYY changed website from mcinawebbrowser.ddns.net to mcinawebbrowser.ddnsking.com
 
-]
-
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 This is Old MineCraft running in a web browser
 
