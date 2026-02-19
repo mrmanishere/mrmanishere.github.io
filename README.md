@@ -1,12 +1,3 @@
-[I'm probably going to use little area as some kind of update blog]
-
-/11/06/2025 MM/DD/YYYY\ a new web domain! http://mcinawebbrowser.ddns.net
-
-/11/07/2025 MM/DD/YYYY\ Hello! As of now visiting either https://mrmanishere.github.io or http://mcinawebbrowser.ddns.net should work!
-
-/2/14/2026\ MM/DD/YYYY changed website from mcinawebbrowser.ddns.net to mcinawebbrowser.ddnsking.com
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 This is Old MineCraft running in a web browser
 
